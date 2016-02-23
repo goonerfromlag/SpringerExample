@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'cucumber'
+gem 'capybara'
+gem 'selenium-webdriver', '2.44.0'
+gem 'rspec','2.14.0'
+gem 'rake'
+gem 'site_prism'
+#gem 'debugger'
+gem 'show_me_the_cookies'
+gem 'httparty'
+gem 'rest-client'
+gem 'mini_portile2'
